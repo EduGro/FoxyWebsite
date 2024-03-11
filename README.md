@@ -27,3 +27,5 @@ Not implemented yet
 * ...
 
 Since this is going to be done in heliohost I'm going to be using [this](https://wiki.helionet.org/tutorials/ror) guide. 
+
+To solve psych problems I used [this](https://stackoverflow.com/questions/72346369/ruby-3-overcommit-psych-issue) from StackOverflow 
